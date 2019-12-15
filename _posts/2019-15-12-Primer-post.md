@@ -17,9 +17,10 @@ FASES DEL SOFTWARE
 
 Primera Fase. Los albores (1945-1955) Programar no es una tarea diferenciada del diseño de una máquina. Uso de lenguaje máquina y ensamblador.
 
-Segunda Fase. El florecimiento (1955-1965) Aparecen multitud de lenguajes�Se pensaba que era posible hacer casi todo.
+Segunda Fase. El florecimiento (1955-1965) Aparecen multitud de lenguajes
+Se pensaba que era posible hacer casi todo.
 
-Tercera Fase. La crisis (1965-1970) Desarrollo inacabable de grandes programas�Ineficiencia, errores, coste impredecible Nada es posible.
+Tercera Fase. La crisis (1965-1970) Desarrollo inacabable de grandes programas Ineficiencia, errores, coste impredecible Nada es posible.
 
 Cuarta Fase. Innovación conceptual (1970-1980) Fundamentos de programación
 

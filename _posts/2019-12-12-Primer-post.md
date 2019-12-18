@@ -29,16 +29,23 @@ Quinta Fase. El diseño es el problema (1980-?) Entornos de programación Especi
 Verificación de programas Metodologías de diseño.
 
 LA    EVOLUCIÓN    DEL     SOFTWARE 
+
+
  El término “evolución” del software se utiliza desde los sesenta para denominar la dinámica de crecimiento del software. 
 Una definición atribuida a Lehman y Ramil dice que la evolución del software es “todas las actividades de programación que se orientan a generar una nueva versión de un software a partir de una versión anterior operativa. 
 Ned Chapin 1(1999) lo definió como “la aplicación de las actividades y procesos de mantenimiento del software que generan una nueva versión operativo de un software con una funcionalidad de usuario o propiedades cambiadas a partir de una versión anterior […] junto con los procesos y actividades de garantía de calidad y con la gestión de esos procesos”. De estas definiciones se desprende que la evolución cubre el ajuste a funcionalidades adicionales. 
 La guía SWEBOK2 considera que la causa del mantenimiento está tanto en la necesidad de “cambios” como de “evolución” en el software.
 
 ¿COMO    SE     DEFINE      CRISIS?
+
+
+
 La palabra crisis se define en el diccionario como "un punto decisivo en el curso de algo; momento, etapa, o evento decisivo o crucial". Sin embargo, para el software no ha habido ningún punto crucial, sólo una lenta evolución.
 La crisis en la industria del software permanece durante muchos años, lo cual parece una contradicción para el término. Lo que si se podría decir es que hay un problema crónico en el desarrollo de software.
 
 ¿POR   QUE    SE   CREA   LA    IS?
+
+
 La ingeniería de software se crea debido a las siguientes características:
 El producto debe ser confiable y realizar sólo las tareas especificadas en los requerimientos. 
 El producto debe ser robusto. Esto quiere decir que el software se comporta de manera razonable, incluso en circunstancias no anticipadas desde el principio. 
@@ -47,11 +54,18 @@ El producto de software debe ser eficiente en el uso de los recursos del sistema
 
 
 EL   SOFTWARE     EN    LA    ACTUALIDAD
+
+
 Las direcciones en las que evoluciona la ingeniería del software hoy en día pueden agruparse de la siguiente manera:
 Metodologías ágiles: métodos de desarrollo de software basados en procesos iterativos e incrementales, donde los requisitos y soluciones evolucionan durante la colaboración.
 Metodologías como Scrum (1995), Extreme Programming (1999) o DSDM (1995) fueron evolucionando hasta que en febrero del 2001 se publicó “Manifesto for Agile Software Development” para definir la aproximación ahora conocida como metodologías ágiles.
+
+
    
 FACTORES   DE    CALIDAD    DEL    SOFTWARE
+
+
+
 Concepto de Calidad: Conjunto de propiedades y de características de un producto o servicio, que le confieren aptitud para satisfacer una necesidad explícita o implícita (ISO 8402).
 Calidad del Software: Es el grado con el que un sistema, componente o proceso cumple los requerimientos especificados y las necesidades o expectativas del cliente o usuario.
 METRICAS    DEL     SOFTWARE
@@ -66,7 +80,10 @@ Integridad: es la habilidad de un sistema para resistir ataques que requiere la 
 
 
 
-PROBLEMAS EN   EL    DESARROLLO   DE    SOFTWARE
+PROBLEMAS EN   EL    DESARROLLO   DE    SOFTWARE 
+
+
+
 “Un proyecto software es un esfuerzo temporal que se lleva a cabo para crear un producto software, servicio TI o resultado único.”
 ¿Pero que es el software? 
  Según la definición del IEEE, "software es la suma total de los programas de ordenador, procedimientos, reglas, la documentación asociada y los datos que pertenecen a un sistema de cómputo", y "un producto de software es un producto diseñado para un usuario".

@@ -77,3 +77,4 @@ El software se desarrolla, no se fabrica en el sentido clásico de la palabra. A
 En el software, el recurso principal son las personas. No es siempre posible acelerar la construcción de software añadiendo personas porque la construcción de software requiere un esfuerzo en equipo. El equipo tiene que trabajar de forma coordinada y compartir un objetivo de proyecto común. Se necesita comunicación efectiva dentro del equipo.
 El software no se estropea, pero se deteriora. Durante su vida, el software sufre cambios (mantenimiento). Conforme se hacen los cambios, es bastante probable que se introduzcan nuevos defectos, lo que hace que el software se vaya deteriorando debido a estos cambios.
 
+![image](https://user-images.githubusercontent.com/57650599/71047177-c06c4f00-2108-11ea-888a-985de9bd27eb.png)

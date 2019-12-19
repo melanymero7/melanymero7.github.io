@@ -3,18 +3,19 @@ title: Primer Post
 author: Melany Mero 
 layout: post
 ---
-¿Qué es la Ingenieria en Software?
+<h1>&iquest;QUE ES LA INGENIERIA EN SOFTWARE ?&nbsp;&nbsp;</h1>
+
 
 La ingeniería de software es una aplicación práctica del conocimiento científico para proveer metodologías y técnicas que ayuden a desarrollar sistemas de software a tiempo, y a su vez que aseguren que el desarrollador cumpla con las expectativas de calidad y permanezca dentro del presupuesto.
 
 
-ORIGEN DE LA INGENIERIA EN SOFTWARE
+<h2>ORIGEN DE LA INGENIERIA SOFTWARE&nbsp;</h2>
+
 
 Ingeniería del Software, es el término utilizado por Fritz Bauer en la primera conferencia sobre desarrollo de software patrocinada por el Comité de Ciencia de la OTAN celebrada en Garmisch (Alemania), en octubre de 1968, previamente había sido utilizado por el holandés Edsger Dijkstra en su obra The Humble Programmer.
-
-
-FASES DEL SOFTWARE 
-
+ 
+  <h2>FASES DEL SOFTWARE&nbsp;</h2>
+  
 Primera Fase. Los albores (1945-1955) Programar no es una tarea diferenciada del diseño de una máquina. Uso de lenguaje máquina y ensamblador.
 
 Segunda Fase. El florecimiento (1955-1965) Aparecen multitud de lenguajes
@@ -28,7 +29,7 @@ Quinta Fase. El diseño es el problema (1980-?) Entornos de programación Especi
 
 Verificación de programas Metodologías de diseño.
 
-LA    EVOLUCIÓN    DEL     SOFTWARE 
+<h2>LA EVOLUCI&Oacute;N DEL SOFTTWARE&nbsp;</h2>
 
 
  El término “evolución” del software se utiliza desde los sesenta para denominar la dinámica de crecimiento del software. 
@@ -36,14 +37,14 @@ Una definición atribuida a Lehman y Ramil dice que la evolución del software e
 Ned Chapin 1(1999) lo definió como “la aplicación de las actividades y procesos de mantenimiento del software que generan una nueva versión operativo de un software con una funcionalidad de usuario o propiedades cambiadas a partir de una versión anterior […] junto con los procesos y actividades de garantía de calidad y con la gestión de esos procesos”. De estas definiciones se desprende que la evolución cubre el ajuste a funcionalidades adicionales. 
 La guía SWEBOK2 considera que la causa del mantenimiento está tanto en la necesidad de “cambios” como de “evolución” en el software.
 
-¿COMO    SE     DEFINE      CRISIS?
 
+<h2>&iquest;COMO SE DEFINE LA CRISIS DEL SOFTWARE?&nbsp;&nbsp;</h2>
 
 
 La palabra crisis se define en el diccionario como "un punto decisivo en el curso de algo; momento, etapa, o evento decisivo o crucial". Sin embargo, para el software no ha habido ningún punto crucial, sólo una lenta evolución.
 La crisis en la industria del software permanece durante muchos años, lo cual parece una contradicción para el término. Lo que si se podría decir es que hay un problema crónico en el desarrollo de software.
 
-¿POR   QUE    SE   CREA   LA    IS?
+<h2>&iquest;PORQUE SE CREA LA IS?&nbsp;&nbsp;</h2>
 
 
 La ingeniería de software se crea debido a las siguientes características:
@@ -53,17 +54,14 @@ El producto de software debe ser lo más reutilizable posible, de manera tal que
 El producto de software debe ser eficiente en el uso de los recursos del sistema.
 
 
-EL   SOFTWARE     EN    LA    ACTUALIDAD
-
+<h2>EL SOFTWARE EN LA ACTUALIDAD&nbsp;&nbsp;</h2>
 
 Las direcciones en las que evoluciona la ingeniería del software hoy en día pueden agruparse de la siguiente manera:
 Metodologías ágiles: métodos de desarrollo de software basados en procesos iterativos e incrementales, donde los requisitos y soluciones evolucionan durante la colaboración.
 Metodologías como Scrum (1995), Extreme Programming (1999) o DSDM (1995) fueron evolucionando hasta que en febrero del 2001 se publicó “Manifesto for Agile Software Development” para definir la aproximación ahora conocida como metodologías ágiles.
 
 
-   
-FACTORES   DE    CALIDAD    DEL    SOFTWARE
-
+   <h2>FACTORES CALIDAD DE SOFTWARE&nbsp;&nbsp;</h2>
 
 
 Concepto de Calidad: Conjunto de propiedades y de características de un producto o servicio, que le confieren aptitud para satisfacer una necesidad explícita o implícita (ISO 8402).
@@ -78,9 +76,8 @@ Métricas de calidad: Son todas las métricas de software que definen de una u o
 Corrección: es el grado en que el software desempeña la función para la que fue creado y se mide en defectos por KLDC. Facilidad de Mantenimiento: es la sencillez con que un programa puede corregirse si se encuentra un error, al adaptarse si su entorno cambio o mejorar si el cliente cambia los requisitos y se mide en forma indirecta en TMC (Tiempo Medio de Cambio).
 Integridad: es la habilidad de un sistema para resistir ataques que requiere la definición de amenaza y seguridad y se calcula: integridad = 1 – (amenaza * (1 – seguridad)).
 
+<h2>PROBLEMAS EN EL DESARROLLO DE SOFTWARE&nbsp; &nbsp;</h2>
 
-
-PROBLEMAS EN   EL    DESARROLLO   DE    SOFTWARE 
 
 
 

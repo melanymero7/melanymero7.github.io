@@ -6,12 +6,10 @@ icon: fa-lightbulb
 icon-style: regular
 ---
 
-UNIDAD 2 
+<h1>UNIDAD 2</h1>
 
 
-
-
-PROCESO DE SOFTWARE 
+<h2>PROCESO DE APLICACIONES&nbsp;</h2>
 
 
 ![image](https://user-images.githubusercontent.com/57650599/71134063-e35f3780-21ca-11ea-8034-6ec0fe1cebc1.png)
@@ -41,6 +39,7 @@ Muchos de los procesos de software son diferentes, pero todos implican:
 
 
 CARACTERÍSTICAS DEL PROCESO DE SW (I)
+
 
 Cualquier proceso tiene las siguientes características:
 
@@ -80,8 +79,9 @@ Con qué “velocidad” se producen los sistemas
 •	Adaptación
 Capacidad que tiene un usuario del mismo de adaptarlo a sus necesidades
 
+<h2>CICLO DE VIDA DEL SOFTWARE&nbsp;</h2>
 
-CICLO DE VIDA DEL SOFTWARE 
+
 Cuando un proceso implica la construcción de algún producto, suele referirse al proceso como un ciclo de vida
 El proceso de desarrollo de software suele denominarse ciclo de vida del software
 La evolución del software representa el ciclo de actividades involucradas en el desarrollo, uso y mantenimiento de sistemas software [Scacchi, 1987].
@@ -131,7 +131,7 @@ Problemas del Modelo de Cascada:
 
 
 
-MODELO ESPIRAL 
+<h2>MODELO ESPIRAL&nbsp;</h2>
 
 
 ![image](https://user-images.githubusercontent.com/57650599/71138573-fd544680-21d9-11ea-98f7-2d63ce95976c.png)
@@ -152,8 +152,8 @@ En este modelo, el esfuerzo de desarrollo es iterativo. Tan pronto como uno comp
 El Modelo Espiral mejora el Modelo de Cascada enfatizando la naturaleza iterativa del proceso de diseño. Eso introduce un ciclo de prototipo iterativo. En cada iteración, las nuevas expresiones que son obtenidas transformando otras dadas son examinadas para ver si representan progresos hacia el objetivo.  
 
 
+<h2>DESARROLLO RAPIDO DE APLICACIONES&nbsp;</h2>
 
-DESARROLLO  RAPIDO  DE APLICACIONES  (DRA) 
 
 ![image](https://user-images.githubusercontent.com/57650599/71138763-7f446f80-21da-11ea-8ed8-fc74d072e300.png)
 
@@ -176,7 +176,8 @@ Cuando se utiliza principalmente para aplicaciones de sistemas de información, 
 
 •	Modelado de datos: El flujo de información definido como parte de la fase de modelado de gestión refina como un conjunto de objetos de datos necesarios para apoyar la empresa. Se definen las características de cada uno de los objetos y relaciones entre estos objetos.
 
-ORIENTADOS A   LA    REUTILIZACIÓN 
+<h2>ORIENTADOS A LA REUTILIZACI&Oacute;N&nbsp;</h2>
+
 
 ![image](https://user-images.githubusercontent.com/57650599/71139702-ed8a3180-21dc-11ea-8691-72faa03d35e2.png)
 
